@@ -7,8 +7,6 @@ namespace MyKoloAPI.Models
 {
     public class Expense
     {
-        public int MyProperty { get; set; }
-        private string _name;
     }
 
 }
